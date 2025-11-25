@@ -1,0 +1,122 @@
+
+.title-one{
+    text-align: center;
+    font-size: 32px;
+    color: darkblue;
+}
+.paragraph-one{
+    font-size: 24px;
+    padding-left: 50px;
+    color: darkblue;
+}
+.title-one-two{
+color: darkblue;
+padding-left: 64px;
+}
+
+.e{
+    padding-left: 50px;
+    color:darkblue;
+    font-size: 32px;
+}
+.text{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color:darkblue;
+  
+  align-items: flex-start;
+}
+.title-text-one{
+    font-size: 32px;
+}
+.paragraph-text-one{
+    font-size: 24px;
+}
+.text-one{
+  width: 300px;               
+}
+.title-text-two{
+    font-size: 32px;
+}
+.paragraph-text-two{
+    font-size: 24px;
+}
+.title-text-three{
+    font-size: 32px;
+}
+.paragraph-text-three{
+    font-size: 24px;
+}
+.title-two{
+    font-size: 32px;
+    color: darkblue;
+    padding-left: 64px;
+}
+.title-three{
+    font-size: 32px;
+    color: darkblue;
+    padding-left: 64px;
+}
+.paragraph-two{
+    font-size: 24px;
+    color: darkblue;
+    padding-left: 64px;
+}
+.image{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content:space-between;
+   padding-left: 64px;
+ 
+  
+}
+.image-one{
+  width: 600px;   
+            
+}
+.title-four{
+    font-size: 32px;
+    color: darkblue;
+    padding-left: 64px;
+}
+.paragraph-four{
+    font-size: 24px;
+    color: darkblue;
+    padding-left: 64px;
+}
+.title-five{
+    font-size: 32px;
+    color: darkblue;
+    padding-left: 64px;
+}
+.paragraph-five{
+    font-size: 24px;
+    color: darkblue;
+    padding-left: 64px;
+}
+a{
+    color: blue;
+    text-decoration: none;
+    font-size: 24px ;
+    display: inline-block;
+    background-color: rgb(216, 215, 217, 0.2);
+    padding: 30px;
+    border-radius: 30px;
+}
+.header{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  flex-wrap:wrap;
+}
+.a-header{
+  
+  display:inline-block;
+  padding:10px;
+}
+.title-one-two{
+    font-size: 32px;
+    color: darkblue; 
+}
